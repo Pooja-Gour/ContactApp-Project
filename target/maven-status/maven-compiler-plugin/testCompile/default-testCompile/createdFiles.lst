@@ -1,0 +1,12 @@
+in/ezeon/springcontactapp/test/TestUserDaoDelete.class
+in/ezeon/springcontactapp/test/TestContactDaoFindAll.class
+in/ezeon/springcontactapp/test/TestDataSource.class
+in/ezeon/springcontactapp/test/TestContactDaoUpdate.class
+in/ezeon/springcontactapp/test/TestContactDaoSave.class
+in/ezeon/springcontactapp/test/TestUserDaoUpdate.class
+in/ezeon/springcontactapp/test/TestUserServiceRegister.class
+in/ezeon/springcontactapp/test/TestUserDaoFindByProperty.class
+in/ezeon/springcontactapp/test/TestContactDaoDelete.class
+in/ezeon/springcontactapp/test/TestUserDaoFindAll.class
+in/ezeon/springcontactapp/test/TestUserDaoFindSingleRecord.class
+in/ezeon/springcontactapp/test/TestUserDaoSave.class
